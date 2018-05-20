@@ -1,4 +1,4 @@
-#Implemented CanActivate guard
+# Implemented CanActivate guard
 
 # Routerguards
 
